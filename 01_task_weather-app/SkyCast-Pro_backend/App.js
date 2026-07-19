@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-require("dotenv").config();
 
 const weatherRoutes = require("./routes/weather_routes");
 
